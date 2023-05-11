@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -l /holbertonschool-shell/basics ls .. /boot
+ls -a -l pwd ls ..

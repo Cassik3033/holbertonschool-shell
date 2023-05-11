@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 $ ls -l
+=======
+ls -l chap1 profile.
+>>>>>>> b9ca5cac8150488a9fe1e0d3070dd6bff2f634d2

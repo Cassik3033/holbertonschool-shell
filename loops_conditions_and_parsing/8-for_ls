@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #
-for DIR in * 
+for file in *; 
 do
-if { -f $DIR }
-then echo "
-$DIR
+	if [[ -f "file" ]];
+then echo "$[file#*-]"
+fi
 done	

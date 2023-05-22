@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 #
-until	{1..10}
+i="1"
+
+until [ $1 -gt 10 ]
 do
 	echo "Best School"
-	sleep 11
+	i=$(i+1))
 done

@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #
-until  {1..10}
+until	{1..10}
 do
 	echo "Best School"
+	sleep 11
 done

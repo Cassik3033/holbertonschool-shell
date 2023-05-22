@@ -2,7 +2,7 @@
 #
 i="0"
 
-while [ $i-ld 10]
+while [ $i-lc 10]
 
 
 do

@@ -1,3 +1,11 @@
 #!/usr/bin/env bash
 #
-if 
+if  school file exists 
+then 
+	echo $school file is empty
+else
+	echo $school file is not empty
+then
+else
+	echo $school is a regular file
+fi
